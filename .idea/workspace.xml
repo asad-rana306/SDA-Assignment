@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53da1052-b2b5-4f56-90ab-dac748841308" name="Changes" comment="" />
+    <list default="true" id="53da1052-b2b5-4f56-90ab-dac748841308" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/decorator/src/PeerToPeer/Peer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorator/src/PeerToPeer/PeerA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorator/src/PeerToPeer/PeerB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorator/src/PeerToPeer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorator/src/PeerToPeer/Versions/V1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorator/src/PeerToPeer/Versions/V2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/decorator/src/pipeFilter/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PipeandFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/decorator/src/pipeFilter/PipeandFilter.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,15 +31,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/asad-rana306/SDA-Assignment.git",
-    "accountId": "6adbc107-ca9e-4851-b2b2-fad179a8cf28"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;asad-rana306&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/asad-rana306/SDA-Assignment.git&quot;,
+    &quot;accountId&quot;: &quot;6adbc107-ca9e-4851-b2b2-fad179a8cf28&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2uUibaHsFuRBXXYccUw8U4rPN0b" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -37,11 +54,42 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Peer.executor": "Run",
+    "Application.PeerA.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "#2 on main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\All Spring\SDA-Assignment\decorator\src\pipeFilter" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="PeerToPeer.Versions" />
+      <recent name="PeerToPeer" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Peer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PeerToPeer.Peer" />
+      <module name="lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PeerToPeer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Peer" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
